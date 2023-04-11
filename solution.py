@@ -1,5 +1,5 @@
 from scipy import stats
-
+import numpy as np
 
 chat_id = 1025787461 # Ваш chat ID, не меняйте название переменной
 
